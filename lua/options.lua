@@ -6,6 +6,7 @@ require "nvchad.options"
 -- o.cursorlineopt ='both' -- to enable cursorline!
 
 vim.wo.relativenumber = true
+-- vim.opt.conceallevel = 1
 
 -- The below settings make Leap's highlighting closer to what you've been
 -- used to in Lightspeed.
